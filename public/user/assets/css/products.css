@@ -1,0 +1,101 @@
+.search_product{
+    background-color: #ffc107;
+    height: 32px;
+}
+.search_product p{
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    line-height: 32px;
+}
+.title_product-tour{
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.options_product select{
+    font-size: 13px;
+}
+.form2{
+    font-size: 13px;
+}
+.product p{
+    margin: 0;
+}
+.product .name_product{
+    font-weight: 700;
+}
+.product .price_product{
+    color: red;
+    font-weight: 600;
+}
+.breadcrumb{
+    font-size: 14px;
+}
+.breadcrumb a{
+    text-decoration: none;
+}
+.breadcrumb a, i{
+    color: #555;
+}
+.breadcrumb .activ{
+    color: #ffc107;
+}
+
+/*detail*/
+.item_product{
+
+}
+.item_product .name{
+    font-size: 25px;
+    text-transform: uppercase;
+    opacity: 0.7;
+}
+.item_product .price{
+    color: red;
+    font-size: 25px;
+    font-weight: 700;
+}
+.item_product .desc_short{
+    font-size: 13px;
+    opacity: 0.5;
+}
+.location{
+    font-size: 13px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 13px 0;
+}
+.location span{
+    color: #ffc107;
+}
+.location1{
+    border-bottom: 1px solid #ccc;
+    padding: 13px 0;
+}
+.location1 .lienhe, .hotline{
+    background-color: #ffc107;
+    text-align: center;
+    padding: 12px 0;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+.location1 .lienhe{
+    background-color: #ffc107;
+}
+.location1 .hotline{
+    background-color: red;
+}
+.tag{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 12px;
+    font-size: 13px;
+}
+.CSS{
+    padding: 15px;
+    border: 1px solid #ffc107;
+}

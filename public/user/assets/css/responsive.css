@@ -1,0 +1,10 @@
+@media (min-width: 990px) {
+    .display-non-dt{
+        display: none;
+    }
+}
+@media (max-width: 989px) {
+    .display-non-mb{
+        display: none;
+    }
+}
